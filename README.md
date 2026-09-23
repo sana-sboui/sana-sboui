@@ -73,8 +73,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
