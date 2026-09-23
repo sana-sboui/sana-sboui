@@ -107,5 +107,4 @@ See the rest, with live demos and details, on my **[portfolio →](https://www.s
 </p>
 
 ---
-
 <p align="center"><i>Open to software engineering opportunities — let's build something useful together.</i></p>
